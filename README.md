@@ -1,6 +1,6 @@
 # Klasifikasi Penyakit Daun Kentang (Potato Disease Classification)
 
-Model Convolutional Neural Network (CNN) yang dibangun menggunakan TensorFlow/Keras untuk mengklasifikasikan penyakit daun kentang menjadi tiga kategori: **Early Blight**, **Late Blight**, dan **Healthy**.
+Model Convolutional Neural Network (CNN) berbasis TensorFlow/Keras untuk mengklasifikasikan kondisi daun kentang ke dalam tiga kategori:  **Early Blight**, **Late Blight**, dan **Healthy**.
 
 ##  Deskripsi Project
 
