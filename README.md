@@ -70,7 +70,9 @@ Model yang digunakan adalah **Convolutional Neural Network (CNN)** dengan konfig
 - Dense layer
 - Output layer dengan 3 class (softmax)
 
-## Hasil dan EvaluasiSetelah proses training, model dapat melakukan prediksi terhadap gambar daun kentang dengan menampilkan:
+## Hasil dan Evaluasi
+Setelah proses training, model dapat melakukan prediksi terhadap gambar daun kentang dengan menampilkan:
+
 - Kelas aktual
 - Kelas prediksi
 - Nilai confidence (tingkat keyakinan)
