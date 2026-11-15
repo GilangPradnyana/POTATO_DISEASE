@@ -48,7 +48,7 @@ dataset/
 
 ---
 
-## 4. Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Komponen              | Teknologi                  |
 |-----------------------|----------------------------|
@@ -60,7 +60,7 @@ dataset/
 
 ---
 
-## 5. Arsitektur Model
+## Arsitektur Model
 
 Model yang digunakan adalah **Convolutional Neural Network (CNN)** dengan konfigurasi dasar sebagai berikut:
 
@@ -70,11 +70,11 @@ Model yang digunakan adalah **Convolutional Neural Network (CNN)** dengan konfig
 - Dense layer
 - Output layer dengan 3 class (softmax)
 
-## 6. Hasil dan EvaluasiSetelah proses training, model dapat melakukan prediksi terhadap gambar daun kentang dengan menampilkan:
+## Hasil dan EvaluasiSetelah proses training, model dapat melakukan prediksi terhadap gambar daun kentang dengan menampilkan:
 - Kelas aktual
 - Kelas prediksi
 - Nilai confidence (tingkat keyakinan)
 - Visualisasi hasil prediksi ditampilkan dalam bentuk grid gambar beserta labelnya.
 
-## 7. Kesimpulan
+## Kesimpulan
 Project ini berhasil membangun model CNN untuk mengklasifikasikan penyakit daun kentang menjadi tiga kategori. Model mampu memberikan prediksi beserta tingkat keyakinan, sehingga berpotensi untuk dikembangkan menjadi sistem deteksi penyakit tanaman berbasis AI.
