@@ -2,7 +2,7 @@
 
 Model Convolutional Neural Network (CNN) yang dibangun menggunakan TensorFlow/Keras untuk mengklasifikasikan penyakit daun kentang menjadi tiga kategori: **Early Blight**, **Late Blight**, dan **Healthy**.
 
-## 📋 Deskripsi Project
+##  Deskripsi Project
 
 Project ini bertujuan membantu petani dan pekerja pertanian dalam mengidentifikasi penyakit daun kentang secara cepat menggunakan deep learning. Dengan mengunggah gambar daun kentang, model dapat memprediksi jenis penyakit beserta tingkat keyakinannya (confidence score).
 
@@ -11,7 +11,7 @@ Project ini bertujuan membantu petani dan pekerja pertanian dalam mengidentifika
 - `Potato___Late_blight` (Bercak Daun Akhir)
 - `Potato___healthy` (Sehat)
 
-## 🚀 Fitur
+##  Fitur
 
 - Klasifikasi gambar penyakit daun kentang
 - Arsitektur CNN menggunakan TensorFlow/Keras
